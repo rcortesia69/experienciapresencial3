@@ -1,0 +1,108 @@
+.spain{
+  width: 500px;
+  height: 375px;
+  float: left;
+  background-color: yellow;
+  position: relative;
+  border: solid 1px black;
+  margin-left: 10px;
+}
+.red{
+  background-color: red;
+  height: 100px;
+}
+.redbotton{
+  margin-bottom: 175px;
+}
+
+
+
+.dinamarca{
+  width: 500px;
+  height: 375px;
+  float: left;
+  position: relative;
+  border: solid 1px black;
+  margin-left: 10px;
+}
+.cuadrado1{
+  width: 150px;
+  height: 150px;
+  background-color: red;
+  float: left;
+}
+.rectangulo{
+  float: left;
+  width: 300px;
+  height: 150px;
+  background-color: red;
+  margin-left: 50px;
+}
+.cuadrado2{
+  width: 150px;
+  height: 150px;
+  background-color: red;
+  margin-top: 75px;
+  float: left;
+}
+.rectangulo2{
+  float: left;
+  width: 300px;
+  height: 150px;
+  background-color: red;
+  margin-left: 50px;
+  margin-top: 75px;
+}
+
+
+
+.ea{
+  width: 500px;
+  height: 375px;
+  float: left;
+  position: relative;
+  border: solid 1px black;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.rojo{
+  background-color: red;
+  height: 375px;
+  width: 125px;
+  float: left;
+}
+.green{
+  background-color: green;
+  height: 125px;
+}
+.tricolor{
+  height: 375px;
+  width: auto;
+}
+.black{
+  background-color: black;
+  margin-top: 125px;
+  height: 125px;
+}
+
+
+
+
+
+.japon{
+  width: 500px;
+  height: 375px;
+  float: left;
+  position: relative;
+  border: solid 1px black;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.redot{
+  border-radius: 100%;
+  background-color: red;
+  width: 150px;
+  height: 150px;
+  margin-top: 125px;
+  margin-left: 172px;
+}
