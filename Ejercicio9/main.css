@@ -1,0 +1,36 @@
+header{
+    background-color: black;
+    color: white;
+    margin: 0px;
+    height: 80px;
+}
+.menu{
+    float: left;
+    width: 30%;
+    background-color: #DADEDE;
+    padding: 20px 0 20px 10px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    height: 230px;
+}
+.subtitulo{
+    float: left;
+    width: 70%;
+    padding: 20px 0 10px 10px;
+    box-sizing: border-box;
+    height: 230px;
+}
+body{
+    margin:0px;
+}
+.footer{
+    background-color: grey;
+    color: white;
+    text-align: center;
+    height: 38px;
+    clear: both;
+    padding-top: 10px;
+}
+li{
+    color: blue;
+}
